@@ -52,11 +52,11 @@ This file tells your server to access your custom file.
 
 Edit it to look like this: 
 
-	"objectSpawnersArr": ["custom/NEAF-Training-Area.json"]	
+	"objectSpawnersArr": ["custom/NEAF-Training-Area.json"],	
 	
 If you already are calling custom jsons to spawn items or buildings, seperate the files like this:
 
-	"objectSpawnersArr": ["custom/NEAF-Training-Area.json","custom/anotherfile.json","custom/differentfile.json"]
+	"objectSpawnersArr": ["custom/NEAF-Training-Area.json","custom/anotherfile.json","custom/differentfile.json"],
 	
 Save your changes & upload if you need to.
 
